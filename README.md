@@ -1,2 +1,2 @@
 # hello-laravel
-crud ops for beginners in laravel
+crud operations for beginners in laravel
